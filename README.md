@@ -30,8 +30,4 @@ The root of this repo/
     │
     └── ...
 ```
-The `data` folder contains the following subfolders:
-- The `mimic_cxr` folder contains MIMIC-CXR image data and corresponding annotation (eg., image id, report etc...).
-- The `finetune` folder contains the image data and corresponding annotation (eg., image id, report etc...) of the downstream dataset. 
-- The `pretrained` folder contains the initialized weights for our model which will download automatically when you run the code.
-- The `decoder_config` and `checkpoint` folders contain the configuration file of the model, and its weights, respectively.
+

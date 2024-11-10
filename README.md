@@ -8,7 +8,7 @@
 
 </h5>
 
-> [Large Language Models Are Poor Clinical Decision-Makers: A Comprehensive Benchmark](https://www.medrxiv.org/content/10.1101/2024.04.24.24306315v3.full)
+> [Large Language Models Are Poor Clinical Decision-Makers: A Comprehensive Benchmark](https://aclanthology.org/2024.emnlp-main.759.pdf)
 
 > [Large Language Models in the Clinic: A Comprehensive Benchmark](https://arxiv.org/pdf/2405.00716)
 

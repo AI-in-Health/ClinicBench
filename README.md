@@ -28,7 +28,7 @@ Clinic Benchmark provides a comprehensive benchmark of 22 LLMs in the clinic acr
 </div>
 
 ## 🏆Medical LLM Leaderboard
-We provide an actively updated leaderboard of Medical Large Language Models (Medical LLMs) in the clinic.
+We provide an actively updated leaderboard of Medical Large Language Models (Medical LLMs) in the ClinicBench:
 
 [Huggingface](https://huggingface.co/spaces/fenglinliu/medical_llm_leaderboard)
 

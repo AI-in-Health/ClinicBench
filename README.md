@@ -27,7 +27,12 @@ Clinic Benchmark provides a comprehensive benchmark of 22 LLMs in the clinic acr
 <img src="clinicbench.jpg" width="600px">
 </div>
 
- ## ⚡ What insights are obtained from the Clinic Benchmark?
+## 🏆Medical LLM Leaderboard
+We provide an actively updated leaderboard of Medical Large Language Models (Medical LLMs) in the clinic.
+
+[Huggingface](https://huggingface.co/spaces/fenglinliu/medical_llm_leaderboard)
+
+## ⚡ What insights are obtained from the Clinic Benchmark?
 
 1. **Commercial LLMs**: Closed-source commercial LLMs, especially GPT-4, outperform all existing open-source public LLMs on all tasks and datasets.
 2. **State-of-the-art (SOTA)**: LLMs achieve superior performance only on exam-style QA tasks with provided options, competing with human experts and substantially outperforming previous task-specific SOTA methods. However, LLMs perform poorly in open-ended decision-making, generation, and understanding.
